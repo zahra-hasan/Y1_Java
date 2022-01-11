@@ -1,4 +1,4 @@
-# Y1_Java_assignments
+# Y1_Java
 These are the java assignments I have done in my first year with feedback (the very first programming assignments I have ever done) 
 # semester 1 marks
 assignemnt1: 59.  
